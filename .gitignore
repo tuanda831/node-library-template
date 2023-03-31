@@ -1,0 +1,8 @@
+node_modules
+dist
+.env
+output
+*.d.ts
+*.d.ts.map
+*.js.map
+*.tgz
